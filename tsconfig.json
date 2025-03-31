@@ -13,8 +13,9 @@
     "skipLibCheck": true                                 /* Skip type checking all .d.ts files. */
   },
   "include": [
-    "src/**/*"
-, "eslint.config.js"  ],
+    "src/**/*", 
+    "eslint.config.js",
+  ],
   "exclude": [
     "node_modules",
     "**/*.spec.ts",
